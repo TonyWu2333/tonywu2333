@@ -1,2 +1,6 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tonywu2333)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/tonywu2333?theme=dark&lang=zh)](https://ghfind.com/u/tonywu2333?ref=badge)
+<a href="https://ghfind.com/u/tonywu2333?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/tonywu2333?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/tonywu2333?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
