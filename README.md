@@ -47,26 +47,7 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | [AI Wellness App](https://github.com/TonyWu2333/AI-Wellness-Mobile-App) | — | Maintainer of an Android wellness assistant backed by a RAG agent over a medical knowledge base. |
 | [webstack-modern](https://github.com/TonyWu2333/webstack-modern) | — | Author of a beautified WebStack link-navigation site with dark mode, deployed on Vercel. |
 
-### `03` GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TonyWu2333&show_icons=true&include_all_commits=true&border_radius=12&disable_animations=true&bg_color=14110F&title_color=E8743B&text_color=F2EDE6&icon_color=E8743B&border_color=2A2521&ring_color=E8743B">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TonyWu2333&show_icons=true&include_all_commits=true&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=6&hide=html,css,stylus,ejs,scss,less,pug,batchfile&border_radius=12&disable_animations=true&bg_color=14110F&title_color=E8743B&text_color=F2EDE6&icon_color=E8743B&border_color=2A2521&ring_color=E8743B">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=6&hide=html,css,stylus,ejs,scss,less,pug,batchfile&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TonyWu2333&border_radius=12&disable_animations=true&background=14110F&border=2A2521&ring=E8743B&fire=E8743B&currStreakNum=F2EDE6&sideNums=F2EDE6&currStreakLabel=E8743B&sideLabels=8F877C&dates=8F877C&stroke=2A2521">
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=TonyWu2333&border_radius=12&disable_animations=true&background=F6F3EE&border=E6DFD4&ring=C2410C&fire=C2410C&currStreakNum=1A1714&sideNums=1A1714&currStreakLabel=C2410C&sideLabels=7A736A&dates=7A736A&stroke=E6DFD4" height="165">
-  </picture>
-</p>
-
-### `04` Toolbox
+### `03` Toolbox
 
 <p>
   <picture>
@@ -79,6 +60,13 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 **AI** — RAG · AI Agents · LangChain · MCP · Hybrid Retrieval · Prompt Design
 
 <br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TonyWu2333&show_icons=true&include_all_commits=true&border_radius=12&disable_animations=true&bg_color=14110F&title_color=E8743B&text_color=F2EDE6&icon_color=E8743B&border_color=2A2521&ring_color=E8743B">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TonyWu2333&show_icons=true&include_all_commits=true&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://ghfind.com/u/tonywu2333?ref=badge"><img alt="GitHub Roast card" src="https://ghfind.com/api/card/mini/tonywu2333"></a>
