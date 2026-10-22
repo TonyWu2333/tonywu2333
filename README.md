@@ -55,8 +55,8 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TonyWu2333&show_icons=true&include_all_commits=true&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=8&hide=html,css,stylus,ejs,scss,less,pug&border_radius=12&disable_animations=true&bg_color=14110F&title_color=E8743B&text_color=F2EDE6&icon_color=E8743B&border_color=2A2521&ring_color=E8743B">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=8&hide=html,css,stylus,ejs,scss,less,pug&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=6&hide=html,css,stylus,ejs,scss,less,pug,batchfile&border_radius=12&disable_animations=true&bg_color=14110F&title_color=E8743B&text_color=F2EDE6&icon_color=E8743B&border_color=2A2521&ring_color=E8743B">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyWu2333&layout=compact&langs_count=6&hide=html,css,stylus,ejs,scss,less,pug,batchfile&border_radius=12&disable_animations=true&bg_color=F6F3EE&title_color=C2410C&text_color=1A1714&icon_color=C2410C&border_color=E6DFD4&ring_color=C2410C" height="165">
   </picture>
 </p>
 <p align="center">
