@@ -22,11 +22,11 @@
 
 Hi, I'm Tony (Wu Tianzhuo · 吴天卓). I work where product meets engineering: I talk to users, write the PRD, then help build it.
 
-Currently a software engineer at **SendOS** and a graduate student in Systems Analysis at **NUS**, contributing to open-source AI tooling on the side.
+Currently a graduate student at **NUS**, contributing to open-source AI tooling on the side.
 
 | From | Based in | Studying | Focus | Languages |
 | :-- | :-- | :-- | :-- | :-- |
-| 🇨🇳 China | 🇸🇬 Singapore | NUS · Systems Analysis | AI Products · RAG · Agents | Mandarin · English |
+| 🇨🇳 China | 🇸🇬 Singapore | NUS | AI Products · RAG · Agents | Mandarin · English |
 
 ### `02` Open Source
 
