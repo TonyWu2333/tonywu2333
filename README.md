@@ -20,70 +20,20 @@
 
 ### `01` About
 
-I work where product meets engineering: I talk to users, write the PRD, then help build it.
+Hi, I'm Tony (Wu Tianzhuo · 吴天卓). I work where product meets engineering: I talk to users, write the PRD, then help build it.
 
-Most recently I planned and shipped an **agent-based RAG knowledge platform** with hybrid retrieval — **96% answer accuracy** and 24/7 self-service. Before that, as a product manager, I found where users dropped off at checkout and lifted **payment conversion by ~6%**.
-
-Now I'm a graduate student in Systems Analysis at **NUS**, a software engineer at **SendOS**, and an open-source contributor to AI tooling on the side.
+Currently a software engineer at **SendOS** and a graduate student in Systems Analysis at **NUS**, contributing to open-source AI tooling on the side.
 
 | From | Based in | Studying | Focus | Languages |
 | :-- | :-- | :-- | :-- | :-- |
 | 🇨🇳 China | 🇸🇬 Singapore | NUS · Systems Analysis | AI Products · RAG · Agents | Mandarin · English |
 
-### `02` Experience
-
-| When | Role | What I did |
-| :-- | :-- | :-- |
-| **Sep 2026 — Now**<br><sub>Singapore</sub> | **Software Engineer**<br>SendOS | Building an AI-native business operating system — chat messages become goals, every action runs through governed connectors with human approval and an audit trace. |
-| **Mar — May 2026**<br><sub>Hangzhou</sub> | **Full-Stack AI Engineer**<br>Saizhi Technology | Took an agent-based RAG knowledge platform from requirements to launch: hybrid BM25 + vector search + LLM reranking (96% accuracy, traceable citations), role-based prompts and permissions. |
-| **Apr 2024 — Jan 2025**<br><sub>Hangzhou</sub> | **Product Manager**<br>Hangzhou Zhiliaosiyuan | Owned the roadmap, shipped search / favourites / AI input suggestions, reworked checkout (+~6% conversion), co-designed the *Trash Bin Battle* AI mini-game. |
-
-### `03` Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/morluto/rea">rea</a></b> &nbsp;<sub>Contributor · 270k+ ★</sub><br>
-      <sub>An agent-driven reverse engineering toolkit, from app behaviour down to native binaries. Fixed .NET image classification, Mach-O platform naming and Apple NIB test handling.</sub><br>
-      <code>Reverse Engineering</code> <code>.NET</code> <code>Mach-O</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/DietrichGebert/ponytail">Ponytail</a></b> &nbsp;<sub>Contributor · 160k+ ★</sub><br>
-      <sub>An open-source plugin that makes AI coding agents favour the simplest working solution.</sub><br>
-      <code>AI Agents</code> <code>Python</code> <code>Testing</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/t2047/CampusLink">CampusLink</a></b> &nbsp;<sub>Product Manager · NUS, team of 7</sub><br>
-      <sub>An AI campus workspace with a chat agent that acts under human confirmation. Also built the mail &amp; calendar module.</sub><br>
-      <code>FastAPI</code> <code>LangChain</code> <code>MCP</code> <code>React</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/TonyWu2333/AI-Wellness-Mobile-App">AI Wellness App</a></b> &nbsp;<sub>Repo Maintainer · NUS</sub><br>
-      <sub>An Android wellness assistant backed by a RAG agent over a medical knowledge base.</sub><br>
-      <code>Kotlin</code> <code>Spring Boot</code> <code>RAG</code> <code>DeepSeek</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/agentrq/agentrq">AgentRQ</a></b> &nbsp;<sub>Contributor · 3 PRs · 1.1k+ ★</sub><br>
-      <sub>A self-hosted human-in-the-loop task manager for AI agents.
-      <a href="https://github.com/agentrq/agentrq/pull/316">#316</a> · <a href="https://github.com/agentrq/agentrq/pull/328">#328</a> · <a href="https://github.com/agentrq/agentrq/pull/209">#209</a></sub><br>
-      <code>React</code> <code>UX</code> <code>Docs</code>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/TonyWu2333/webstack-modern">webstack-modern</a></b> &nbsp;<sub>Author</sub><br>
-      <sub>A beautified WebStack link-navigation site: modern UI, smooth motion, dark mode, links in one <code>config.yml</code>, deploys to Vercel.</sub><br>
-      <code>CSS</code> <code>Vercel</code>
-    </td>
-  </tr>
-</table>
-
-### `04` Merged in Open Source
+### `02` Open Source
 
 | Project | ★ | Contribution |
 | :-- | --: | :-- |
+| [rea](https://github.com/morluto/rea/pulls?q=is%3Apr+author%3ATonyWu2333+is%3Amerged) | 350k+ | Agent-driven reverse engineering toolkit — classify ReadyToRun images as modern .NET ([#2075](https://github.com/morluto/rea/pull/2075)), name Mach-O build-version platforms ([#2065](https://github.com/morluto/rea/pull/2065)), skip NIB tests without `ibtool` ([#2070](https://github.com/morluto/rea/pull/2070)). |
+| [Ponytail](https://github.com/DietrichGebert/ponytail/pull/1025) | 170k+ | Plugin that makes AI coding agents favour the simplest solution — isolated the Python helper's tests from the developer's own config. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway/pull/7484) | 20k+ | OpenAPI generator now honours the `required` field option on repeated fields. |
 | [SurfSense](https://github.com/MODSetter/SurfSense/pull/2203) | 16k+ | Local script tracebacks print relative to their run folder, so errors point at the right file. |
 | [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git/pull/2444) | 8.3k+ | `cherry-pick` refuses to run over local changes — uncommitted work is never overwritten. |
@@ -91,9 +41,13 @@ Now I'm a graduate student in Systems Analysis at **NUS**, a software engineer a
 | [token-monitor](https://github.com/Javis603/token-monitor/pull/852) | 3.1k+ | OpenRouter key-limit tracking measures a resetting limit against its current period. |
 | [dsh-im](https://github.com/xmanrui/dsh-im/pull/265) | 2.0k+ | Feishu live process messages stay inside their topic thread. |
 | [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar/pull/818) | 1.4k+ | `classify.py` CLI lists all 13 taxonomy domains with their real definitions. |
+| [AgentRQ](https://github.com/agentrq/agentrq/pulls?q=is%3Apr+author%3ATonyWu2333+is%3Amerged) | 1.1k+ | Human-in-the-loop task manager for AI agents — shared loading spinner ([#316](https://github.com/agentrq/agentrq/pull/316)), popover fix ([#328](https://github.com/agentrq/agentrq/pull/328)), Chinese README ([#209](https://github.com/agentrq/agentrq/pull/209)). |
 | [druk](https://github.com/letstri/druk/pull/108) | 780+ | Diff view marks a missing final newline wherever the last line appears. |
+| [CampusLink](https://github.com/t2047/CampusLink) | — | NUS team project, an AI campus workspace — product manager, and built the mail & calendar agent module. |
+| [AI Wellness App](https://github.com/TonyWu2333/AI-Wellness-Mobile-App) | — | Maintainer of an Android wellness assistant backed by a RAG agent over a medical knowledge base. |
+| [webstack-modern](https://github.com/TonyWu2333/webstack-modern) | — | Author of a beautified WebStack link-navigation site with dark mode, deployed on Vercel. |
 
-### `05` Toolbox
+### `03` Toolbox
 
 <p>
   <picture>
@@ -104,12 +58,6 @@ Now I'm a graduate student in Systems Analysis at **NUS**, a software engineer a
 
 **Product** — Requirements Analysis · User Research · Competitive Analysis · PRD Writing · Prototyping · Agile / Scrum · Axure RP · Jira<br>
 **AI** — RAG · AI Agents · LangChain · MCP · Hybrid Retrieval · Prompt Design
-
-### `06` Beyond the code
-
-🎓 **NUS** — Grad Dip, Systems Analysis <sub>2026 — Now</sub> &nbsp;·&nbsp; **Zhejiang University of Technology** — B.Eng., Software Engineering <sub>2022 — 2026</sub><br>
-🏆 Second Prize · Zhejiang Provincial Cybersecurity Competition<br>
-📺 Bilibili channel with ~10k followers &nbsp;·&nbsp; ⛏️ Running a Minecraft server with my own mod
 
 <br>
 
