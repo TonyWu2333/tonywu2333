@@ -16,7 +16,7 @@
   <i>I design and build <b>AI products</b> — from user research all the way down to the code.</i>
 </p>
 
-<br>
+---
 
 ### `01` About
 
@@ -28,7 +28,7 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | :-- | :-- | :-- | :-- | :-- |
 | 🇨🇳 China | 🇸🇬 Singapore | NUS | AI Products · RAG · Agents | Mandarin · English |
 
-<br>
+---
 
 ### `02` Open Source
 
@@ -49,7 +49,7 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | [AI Wellness App](https://github.com/TonyWu2333/AI-Wellness-Mobile-App) | — | Maintainer of an Android wellness assistant backed by a RAG agent over a medical knowledge base. |
 | [webstack-modern](https://github.com/TonyWu2333/webstack-modern) | — | Author of a beautified WebStack link-navigation site with dark mode, deployed on Vercel. |
 
-<br>
+---
 
 ### `03` Toolbox
 
@@ -64,7 +64,7 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | :-- | :-- |
 | Requirements Analysis · User Research · Competitive Analysis · PRD Writing · Prototyping · Agile / Scrum · Axure RP · Jira | RAG · AI Agents · LangChain · MCP · Hybrid Retrieval · Prompt Design |
 
-<br>
+---
 
 <p align="center">
   <a href="https://ghfind.com/u/tonywu2333?ref=badge"><img alt="GitHub Roast card" src="https://ghfind.com/api/card/mini/tonywu2333"></a>
