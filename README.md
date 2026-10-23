@@ -66,5 +66,5 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 </p>
 
 <p align="center">
-  <sub>Let's build something <a href="mailto:tonywu.vip@outlook.com"><i>together.</i></a></sub>
+  Let's build something <a href="mailto:tonywu.vip@outlook.com"><i>together.</i></a>
 </p>
