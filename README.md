@@ -28,6 +28,8 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | :-- | :-- | :-- | :-- | :-- |
 | 🇨🇳 China | 🇸🇬 Singapore | NUS | AI Products · RAG · Agents | Mandarin · English |
 
+<br>
+
 ### `02` Open Source
 
 | Project | ★ | Contribution |
@@ -47,6 +49,8 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 | [AI Wellness App](https://github.com/TonyWu2333/AI-Wellness-Mobile-App) | — | Maintainer of an Android wellness assistant backed by a RAG agent over a medical knowledge base. |
 | [webstack-modern](https://github.com/TonyWu2333/webstack-modern) | — | Author of a beautified WebStack link-navigation site with dark mode, deployed on Vercel. |
 
+<br>
+
 ### `03` Toolbox
 
 <p>
@@ -56,14 +60,17 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
   </picture>
 </p>
 
-**Product** — Requirements Analysis · User Research · Competitive Analysis · PRD Writing · Prototyping · Agile / Scrum · Axure RP · Jira<br>
-**AI** — RAG · AI Agents · LangChain · MCP · Hybrid Retrieval · Prompt Design
+| Product | AI |
+| :-- | :-- |
+| Requirements Analysis · User Research · Competitive Analysis · PRD Writing · Prototyping · Agile / Scrum · Axure RP · Jira | RAG · AI Agents · LangChain · MCP · Hybrid Retrieval · Prompt Design |
 
 <br>
 
 <p align="center">
   <a href="https://ghfind.com/u/tonywu2333?ref=badge"><img alt="GitHub Roast card" src="https://ghfind.com/api/card/mini/tonywu2333"></a>
 </p>
+
+<br>
 
 <p align="center">
   Let's build something <a href="mailto:tonywu.vip@outlook.com"><i>together.</i></a>
