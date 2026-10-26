@@ -34,14 +34,15 @@ Currently a graduate student at **NUS**, contributing to open-source AI tooling 
 
 | Project | ★ | Contribution |
 | :-- | --: | :-- |
-| [rea](https://github.com/morluto/rea/pulls?q=is%3Apr+author%3ATonyWu2333+is%3Amerged) | 350k+ | Agent-driven reverse engineering toolkit — classify ReadyToRun images as modern .NET ([#2075](https://github.com/morluto/rea/pull/2075)), name Mach-O build-version platforms ([#2065](https://github.com/morluto/rea/pull/2065)), skip NIB tests without `ibtool` ([#2070](https://github.com/morluto/rea/pull/2070)). |
+| [rea](https://github.com/morluto/rea/pulls?q=is%3Apr+author%3ATonyWu2333+is%3Amerged) | 380k+ | Agent-driven reverse engineering toolkit — classify ReadyToRun images as modern .NET ([#2075](https://github.com/morluto/rea/pull/2075)), name Mach-O build-version platforms ([#2065](https://github.com/morluto/rea/pull/2065)), skip NIB tests without `ibtool` ([#2070](https://github.com/morluto/rea/pull/2070)). |
 | [Ponytail](https://github.com/DietrichGebert/ponytail/pull/1025) | 170k+ | Plugin that makes AI coding agents favour the simplest solution — isolated the Python helper's tests from the developer's own config. |
+| [claude-mem](https://github.com/thedotmack/claude-mem/pull/4803) | 100k+ | Persistent memory across sessions for coding agents — `uninstall` now cleans the active profile's plugin data under `CLAUDE_CONFIG_DIR` instead of another profile's. |
 | [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway/pull/7484) | 20k+ | OpenAPI generator now honours the `required` field option on repeated fields. |
 | [SurfSense](https://github.com/MODSetter/SurfSense/pull/2203) | 16k+ | Local script tracebacks print relative to their run folder, so errors point at the right file. |
 | [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git/pull/2444) | 8.3k+ | `cherry-pick` refuses to run over local changes — uncommitted work is never overwritten. |
 | [tabularis](https://github.com/TabularisDB/tabularis/pull/900) | 5.2k+ | `EXPLAIN ANALYZE` off by default for data-modifying statements, so explaining never changes data. |
-| [token-monitor](https://github.com/Javis603/token-monitor/pull/852) | 3.1k+ | OpenRouter key-limit tracking measures a resetting limit against its current period. |
-| [dsh-im](https://github.com/xmanrui/dsh-im/pull/265) | 2.0k+ | Feishu live process messages stay inside their topic thread. |
+| [token-monitor](https://github.com/Javis603/token-monitor/pull/852) | 3.3k+ | OpenRouter key-limit tracking measures a resetting limit against its current period. |
+| [dsh-im](https://github.com/xmanrui/dsh-im/pull/265) | 2.5k+ | Feishu live process messages stay inside their topic thread. |
 | [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar/pull/818) | 1.4k+ | `classify.py` CLI lists all 13 taxonomy domains with their real definitions. |
 | [AgentRQ](https://github.com/agentrq/agentrq/pulls?q=is%3Apr+author%3ATonyWu2333+is%3Amerged) | 1.1k+ | Human-in-the-loop task manager for AI agents — shared loading spinner ([#316](https://github.com/agentrq/agentrq/pull/316)), popover fix ([#328](https://github.com/agentrq/agentrq/pull/328)), Chinese README ([#209](https://github.com/agentrq/agentrq/pull/209)). |
 | [druk](https://github.com/letstri/druk/pull/108) | 780+ | Diff view marks a missing final newline wherever the last line appears. |
